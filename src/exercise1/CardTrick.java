@@ -48,7 +48,7 @@ public class CardTrick {
         System.out.println("Game Developer");
 
         System.out.println("My hobbies:");
-        System.out.println("I like to read Comics");
+        System.out.println("I like to read Comics and mangas");
 
         System.out.println();
     }
